@@ -1,6 +1,13 @@
-# ♟️ I8O8IChessOnline
-
-Modern Professional RealTime Chess Platform With A PHP Frontend, Python (Flask + Socket.IO) Backend, And MySQL Database.
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║             ♟️  I8O8IChessOnline - Multiplayer Chess  ♟️            ║
+║                                                                      ║
+║    Modern Professional RealTime Chess Platform With A PHP Frontend   ║
+║       Python (Flask + Socket.IO) Backend, And MySQL Database         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ## ProjectOverview
 
@@ -8,15 +15,21 @@ I8O8IChessOnline Is A PurposeBuilt RealTime Multiplayer Chess Platform Intended 
 
 This Repository Contains Both Frontend And Backend Code, Database Schema, And Utility Modules For EloRating And ChessLogic.
 
-## KeyFeatures
+## ⭐ KeyFeatures
 
-- RealTime Multiplayer With LowLatency Move Sync.
-- Matchmaking Queue And QuickMatch Support.
-- Multiple TimeControls (Classical, Rapid, Blitz).
-- EloRating Calculation And RatingHistory Tracking.
-- InGame Chat And Basic Achievement System.
-- LiveGameAnalysis Hooks For Integrations With Engines.
-- Local Debug Endpoints For Inspecting InMemory GameState.
+```
+  ╔════════════════════════════════════════════════════════════╗
+  ║                   FEATURE HIGHLIGHTS                       ║
+  ╠════════════════════════════════════════════════════════════╣
+  ║  ⚡ RealTime Multiplayer With LowLatency Move Sync        ║
+  ║  🎯 Matchmaking Queue And QuickMatch Support              ║
+  ║  ⏱️  Multiple TimeControls (Classical, Rapid, Blitz)      ║
+  ║  📊 EloRating Calculation And RatingHistory Tracking      ║
+  ║  💬 InGame Chat And Basic Achievement System              ║
+  ║  🔍 LiveGameAnalysis Hooks For Engine Integrations        ║
+  ║  🐛 Local Debug Endpoints For Inspecting GameState        ║
+  ╚════════════════════════════════════════════════════════════╝
+```
 
 ## TechnologyStack
 
