@@ -1,12 +1,12 @@
 ```
-╔══════════════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║             ♟️  I8O8IChessOnline - Multiplayer Chess  ♟️            ║
+║             ♟️  I8O8IChessOnline - Multiplayer Chess  ♟️             ║
 ║                                                                      ║
 ║    Modern Professional RealTime Chess Platform With A PHP Frontend   ║
 ║       Python (Flask + Socket.IO) Backend, And MySQL Database         ║
 ║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ## ProjectOverview
