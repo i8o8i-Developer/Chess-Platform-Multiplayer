@@ -405,16 +405,4 @@ This Project Is Licensed Under The MIT License. See The `LICENSE` File For Full 
 
 ## Contact
 
-Open An Issue On GitHub For Support, Or Use The Repository's Issue Tracker To Report Bugs And Request Features.
-
----
-
-## NextSteps
-
-If You'd Like, I Can:
-
-- Add A Dockerfile And Verified DockerCompose Setup.
-- Add A CONTRIBUTING.md And CODE_OF_CONDUCT File.
-- Add A Pytest Skeleton For `EloUtils.py` And A Basic CI Workflow (GitHub Actions).
-
-Please Tell Me Which NextStep You Prefer And I Will Implement It.
+Open An Issue On GitHub For Support, Or Use The Repository's Issue Tracker To Report Bugs And Request Features
